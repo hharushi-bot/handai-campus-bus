@@ -1,0 +1,10 @@
+{
+  "name": "阪大バス",
+  "short_name": "阪大バス",
+  "description": "大阪大学 学内連絡バス検索",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ja"
+}
